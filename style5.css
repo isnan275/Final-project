@@ -1,0 +1,70 @@
+#section{
+    min-height: auto;
+}
+
+#home {
+    background-image: url(Yakusa.png);
+    background-size: auto;
+}
+
+.tulisan1{
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+    margin: 1%; padding-right: 1%;
+}
+
+.tulisan2{
+    color:blue;
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: overline;
+    margin: 1%; padding-right: 1%;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 36px;
+    background-color: blue;
+    border-style: dotted;
+    color: beige;
+    background-color: #607EAA;
+    position: sticky;
+    top: 0;
+}
+
+#About {
+    background-color: blanchedalmond;
+    display: flex;
+    border-radius: 50%;
+    border-style: groove;
+}
+
+.tulisan3{
+    text-align: center;
+}
+
+.tulisan4{
+    color: rgb(24, 24, 56);
+    text-shadow: #607EAA;
+    font-style: bold;
+    font-size: larger;
+}
+
+#Portofolio{
+    display: contents;
+}
+
+.text-muted{
+    color: coral;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#team{
+    display: contents;
+
+}
